@@ -44,6 +44,7 @@ async function checkWeather(city) {
 
     // console.log(data);
     
+    
 }
 
 searchBtn.addEventListener("click", () => {
